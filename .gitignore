@@ -1,0 +1,24 @@
+### Python template
+__pycache__/
+
+rlsdk_logs/
+others/
+game_package_opensource
+game_package_release*
+train_tools
+ray_results
+.vscode
+output*
+test.py
+full_human_data
+L33_RELEASE.zip
+accounts.txt*
+ray_train.log
+installed-deps.txt
+state.json
+note.ipynb
+logs
+nohup.out
+submissions
+train.log
+xvfb_fbdir
